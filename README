@@ -1,3 +1,7 @@
+JACK'S PATCHES TO it87 KERNEL MODULE:
+* Stub out vid_* functions which are removed in newer kernels
+
+
 SUPPORT NOTE - Sep 2024
 ============
 
